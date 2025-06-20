@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <rect width="100" height="100" rx="20" fill="#0a0a0a"/>
+  <text x="20" y="65" font-size="48" font-family="Arial Black" fill="#fff" transform="skewX(-10)">VF</text>
+  <text x="22" y="67" font-size="48" font-family="Arial Black" fill="#00ffe1" transform="skewX(-10)" opacity="0.4">VF</text>
+  <text x="18" y="63" font-size="48" font-family="Arial Black" fill="#ff0066" transform="skewX(-10)" opacity="0.4">VF</text>
+</svg>
